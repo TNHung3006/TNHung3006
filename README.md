@@ -34,9 +34,9 @@
 
 | Project | Mô tả | Tech |
 |---|---|---|
-| 🌦️ **Weather App** *(đang làm)* | Ứng dụng xem thời tiết theo thời gian thực | _(điền tech của bạn)_ |
+| 🌦️ **Weather App** *(đang làm)* | Ứng dụng xem thời tiết theo thời gian thực | C#, SQL Server,... |
 | 🎮 [Donet-Mini-Game-Survival](https://github.com/TNHung3006/Donet-Mini-Game-Survival) | Mini game sinh tồn | C# |
-| 🚚 [dinh-tuyen-spx-open-source](https://github.com/TNHung3006/dinh-tuyen-spx-open-source) | Dự án mã nguồn mở _(điền mô tả ngắn 1 câu)_ | PHP |
+| 🚚 [dinh-tuyen-spx-open-source](https://github.com/TNHung3006/dinh-tuyen-spx-open-source) | Dự án mã nguồn mở về định tuyến | PHP |
 
 ---
 
