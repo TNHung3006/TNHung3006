@@ -1,5 +1,5 @@
-<!-- Banner: capsule-render (kiểu sóng + đổ bóng cho cảm giác nổi 3D) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ng%E1%BB%8Dc%20H%C3%B9ng&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20-%20QA%20Tester%20and%20Fullstack%20Dev&descSize=16&descAlignY=60" />
+<!-- Banner: file header.svg (chữ 3D, tự thiết kế) -->
+<img width="100%" src="https://raw.githubusercontent.com/TNHung3006/TNHung3006/main/header.svg" alt="Ngọc Hùng" />
 
 <!-- Dòng chữ gõ chạy tự động -->
 <p align="center">
@@ -34,9 +34,10 @@
 
 | Project | Mô tả | Tech |
 |---|---|---|
-| 🌦️ **Weather App** *(đang làm)* | Ứng dụng xem thời tiết theo thời gian thực | C#, SQL Server,... |
+| 🌦️ **Weather App** *(đang làm)* | Ứng dụng xem thời tiết theo thời gian thực | C#, SQL Server |
 | 🎮 [Donet-Mini-Game-Survival](https://github.com/TNHung3006/Donet-Mini-Game-Survival) | Mini game sinh tồn | C# |
-| 🚚 [dinh-tuyen-spx-open-source](https://github.com/TNHung3006/dinh-tuyen-spx-open-source) | Dự án mã nguồn mở về định tuyến | PHP |
+| 🗄️ [Database-SQL-Server](https://github.com/TNHung3006/Database-SQL-Server) | Bài tập & thực hành cơ sở dữ liệu | T-SQL |
+| 🚚 [dinh-tuyen-spx-open-source](https://github.com/TNHung3006/dinh-tuyen-spx-open-source) | Dự án mã nguồn mở về định tuyến đường đi | PHP |
 
 ---
 
